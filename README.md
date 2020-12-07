@@ -1,10 +1,18 @@
-Networking Spreadsheet:
 
-https://docs.google.com/spreadsheets/d/1UkZBOBDvNnwVNAIN2_UNe20dAIpyoYusekgna3X2YY8/edit#gid=0
+My name is Tom Pasini. I'm currently a student a Boise CodeWorks working on getting a certification in their Immersive Full Stack Developer program. I enjoy figuring how things work, and inevitably why things are not working as expected.
 
-LinkedIn Profile:
+
+
+- 🔭 I’m currently working on an app for a bars to host trivia nights for people attending.
+
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Vue3, NodeJS, Mongoose, C#, SQL, and MongoDB.
+
+- 📫 How to reach me:
 
 https://www.linkedin.com/in/tom-pasini-416576a7/
+
+- ⚡ Fun fact:
+I love video games, board games, and Magic the Gathering. Ask me about Super Smash Brothers Melee for the Nintendo Gamecube.
 
 <!--
 **tompasini/tompasini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
