@@ -1,5 +1,5 @@
 
-My name is Tom Pasini. I'm currently a student at Boise CodeWorks working on getting a certification in their Immersive Full Stack Developer program. I enjoy figuring how things work, and inevitably why things are not working as expected.
+My name is Tom Pasini. I am currently a student at Boise CodeWorks working on getting a certification in their Immersive Full Stack Developer program. I enjoy figuring out how things work, and inevitably why things are not working as expected.
 
 
 
