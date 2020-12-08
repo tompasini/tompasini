@@ -5,7 +5,7 @@ My name is Tom Pasini. I am currently a student at Boise CodeWorks working on ge
 
 - 🔭 I’m currently working on an app for a bars to host trivia nights for people attending.
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Vue3, NodeJS, Mongoose, C#, SQL, and MongoDB.
+- 🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScript, Vue3, NodeJS, Mongoose, C#, SQL, and MongoDB.
 
 - 📫 How to reach me:
 
