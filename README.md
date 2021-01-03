@@ -20,6 +20,9 @@ https://www.canva.com/design/DAEPxdhjOcA/share/preview?token=_M4Tmae34hwZoBqu_X2
 Job Spreadsheet:
 https://docs.google.com/spreadsheets/d/1vH26SfyQ6eBeU_Nv9csCoBZ9juggOt9na02SKvYHiEQ/edit?usp=sharing
 
+Behaviorial Questions and Star Responses:
+https://docs.google.com/document/d/1jXzikCD8ZE2VzhEfsd4O0TJN74gpvOk2ewmVr24EFm0/edit?usp=sharing
+
 
 
 <!--
