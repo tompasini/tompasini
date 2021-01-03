@@ -23,6 +23,8 @@ https://docs.google.com/spreadsheets/d/1vH26SfyQ6eBeU_Nv9csCoBZ9juggOt9na02SKvYH
 Behaviorial Questions and Star Responses:
 https://docs.google.com/document/d/1jXzikCD8ZE2VzhEfsd4O0TJN74gpvOk2ewmVr24EFm0/edit?usp=sharing
 
+Elevator Pitch:
+https://docs.google.com/document/d/10uOILr4BE4hGdr3pjrz-3Zjqm7H25kDiIYkPzG2YOos/edit?usp=sharing
 
 
 <!--
