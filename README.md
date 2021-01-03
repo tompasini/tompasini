@@ -14,6 +14,11 @@ https://www.linkedin.com/in/tom-pasini-416576a7/
 - ⚡ Fun fact:
 I love video games, board games, and Magic the Gathering. Ask me about Super Smash Brothers Melee for the Nintendo Gamecube.
 
+Resume:
+https://www.canva.com/design/DAEPxdhjOcA/share/preview?token=_M4Tmae34hwZoBqu_X2Qmw&role=EDITOR&utm_content=DAEPxdhjOcA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
+
+
 <!--
 **tompasini/tompasini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
