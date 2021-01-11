@@ -16,9 +16,11 @@ I love video games, board games, and Magic the Gathering. Ask me about Super Sma
 
 
 Resume:
+
 https://www.canva.com/design/DAEPxdhjOcA/6g5rz4v-UXWxZRMlET_c4A/view?utm_content=DAEPxdhjOcA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 Applications:
+
 Kanban- https://rt-kanban.herokuapp.com/#/
 
 Bar Trivia- https://triviamanagement.herokuapp.com/#/
