@@ -17,14 +17,9 @@ I love video games, board games, and Magic the Gathering. Ask me about Super Sma
 Resume:
 https://www.canva.com/design/DAEPxdhjOcA/share/preview?token=_M4Tmae34hwZoBqu_X2Qmw&role=EDITOR&utm_content=DAEPxdhjOcA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
-Job Spreadsheet:
-https://docs.google.com/spreadsheets/d/1vH26SfyQ6eBeU_Nv9csCoBZ9juggOt9na02SKvYHiEQ/edit?usp=sharing
-
-Behaviorial Questions and Star Responses:
-https://docs.google.com/document/d/1jXzikCD8ZE2VzhEfsd4O0TJN74gpvOk2ewmVr24EFm0/edit?usp=sharing
-
-Elevator Pitch:
-https://docs.google.com/document/d/10uOILr4BE4hGdr3pjrz-3Zjqm7H25kDiIYkPzG2YOos/edit?usp=sharing
+Applications:
+Kanban- https://rt-kanban.herokuapp.com/#/
+Bar Trivia- https://triviamanagement.herokuapp.com/#/
 
 
 <!--
