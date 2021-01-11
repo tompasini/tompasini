@@ -19,6 +19,7 @@ https://www.canva.com/design/DAEPxdhjOcA/share/preview?token=_M4Tmae34hwZoBqu_X2
 
 Applications:
 Kanban- https://rt-kanban.herokuapp.com/#/
+
 Bar Trivia- https://triviamanagement.herokuapp.com/#/
 
 
