@@ -21,9 +21,9 @@ https://www.canva.com/design/DAEPxdhjOcA/6g5rz4v-UXWxZRMlET_c4A/view?utm_content
 
 Applications:
 
-Kanban- https://rt-kanban.herokuapp.com/#/
+Tom's Bugs- https://tomsbugs.herokuapp.com/#/
 
-Bar Trivia- https://triviamanagement.herokuapp.com/#/
+Kanban- https://rt-kanban.herokuapp.com/#/
 
 
 <!--
