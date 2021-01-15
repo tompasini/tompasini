@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Tom Pasini</title>
 </head>
 <body>
 
 <h1>Tom Pasini || Software Developer</h1>
+
+<p>My name is Tom Pasini. I am currently a student at Boise CodeWorks working on getting a certification in their Immersive Full Stack Developer program. I enjoy figuring out how things work, and inevitably why things are not working as expected.</p>
 
 </body>
 </html>
