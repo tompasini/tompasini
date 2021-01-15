@@ -7,21 +7,13 @@
 <h1>Tom Pasini || Software Developer</h1>
 
 <p>My name is Tom Pasini. I am currently a student at Boise CodeWorks working on getting a certification in their Immersive Full Stack Developer program. I enjoy figuring out how things work, and inevitably why things are not working as expected.</p>
-<p>
-- 🔭 I’m currently working on an app for a bars to host trivia nights for people attending.
-
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScript, Vue3, NodeJS, Mongoose, C#, SQL, and MongoDB.
-
-- 📫 How to reach me:
-
-https://www.linkedin.com/in/tom-pasini-416576a7/
-
-- ⚡ Fun fact:
-I love video games, board games, and Magic the Gathering. Ask me about Super Smash Brothers Melee for the Nintendo Gamecube.
-</p>
 
 <h1>Resume:</h1>
 <p>https://www.canva.com/design/DAEPxdhjOcA/6g5rz4v-UXWxZRMlET_c4A/view?utm_content=DAEPxdhjOcA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton</p>
+
+<h1>Applications:</h1>
+<p>Tom's Bugs- https://tomsbugs.herokuapp.com/#/</p>
+<p>Kanban- https://rt-kanban.herokuapp.com/#/</p>
 
 </body>
 </html>
@@ -41,17 +33,6 @@ https://www.linkedin.com/in/tom-pasini-416576a7/
 
 - ⚡ Fun fact:
 I love video games, board games, and Magic the Gathering. Ask me about Super Smash Brothers Melee for the Nintendo Gamecube.
-
-
-Resume:
-
-https://www.canva.com/design/DAEPxdhjOcA/6g5rz4v-UXWxZRMlET_c4A/view?utm_content=DAEPxdhjOcA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
-
-Applications:
-
-Tom's Bugs- https://tomsbugs.herokuapp.com/#/
-
-Kanban- https://rt-kanban.herokuapp.com/#/
 
 
 <!--
