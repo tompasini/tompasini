@@ -7,13 +7,24 @@
 <h1>Tom Pasini || Software Developer</h1>
 
 <p>My name is Tom Pasini. I am currently a student at Boise CodeWorks working on getting a certification in their Immersive Full Stack Developer program. I enjoy figuring out how things work, and inevitably why things are not working as expected.</p>
+<p>
+  - 🔭 I’m currently working on an app for a bars to host trivia nights for people attending.
+
+- 🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScript, Vue3, NodeJS, Mongoose, C#, SQL, and MongoDB.
+
+- 📫 How to reach me:
+
+https://www.linkedin.com/in/tom-pasini-416576a7/
+
+- ⚡ Fun fact:
+I love video games, board games, and Magic the Gathering. Ask me about Super Smash Brothers Melee for the Nintendo Gamecube.
+</p>
 
 </body>
 </html>
 
 
 
-My name is Tom Pasini. I am currently a student at Boise CodeWorks working on getting a certification in their Immersive Full Stack Developer program. I enjoy figuring out how things work, and inevitably why things are not working as expected.
 
 
 
