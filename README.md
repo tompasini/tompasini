@@ -15,6 +15,8 @@
 <p>Tom's Bugs- https://tomsbugs.herokuapp.com/#/</p>
 <p>Kanban- https://rt-kanban.herokuapp.com/#/</p>
 
+<h1>More About Me:</h1>
+
 </body>
 </html>
 
