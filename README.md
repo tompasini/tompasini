@@ -6,7 +6,7 @@
 
 <h1>Tom Pasini || Software Developer</h1>
 
-<p>My name is Tom Pasini. I am currently a student at Boise CodeWorks working on getting a certification in their Immersive Full Stack Developer program. I enjoy figuring out how things work, and inevitably why things are not working as expected.</p>
+<p>My name is Tom Pasini. I am a graduate from the Immersive Full Stack Developer program at CodeWorks. I enjoy figuring out how things work, and inevitably why things are not working as expected.</p>
 
 <h1>Resume:</h1>
 <p>https://www.canva.com/design/DAEPxdhjOcA/6g5rz4v-UXWxZRMlET_c4A/view?utm_content=DAEPxdhjOcA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton</p>
