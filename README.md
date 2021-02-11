@@ -8,7 +8,7 @@
 
 <p>My name is Tom Pasini. I am a graduate from the Immersive Full Stack Developer program at CodeWorks. I enjoy figuring out how things work, and inevitably why things are not working as expected.</p>
 
-<p>I am currently working on app that's kind of like OkCupid for gamers to find each other, but it's not a dating app.</p>
+<p>I am currently working on app that's kind of like OkCupid for gamers, but it's not a dating app.</p>
 
 <h1>Resume:</h1>
 <p>https://www.canva.com/design/DAEPxdhjOcA/6g5rz4v-UXWxZRMlET_c4A/view?utm_content=DAEPxdhjOcA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton</p>
