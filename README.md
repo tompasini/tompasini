@@ -8,7 +8,7 @@
 
 <p>My name is Tom Pasini. I enjoy figuring out how things work, and inevitably why things are not working as expected.</p>
 
-<h1>More About Me:</h1>
+<h1>About Me:</h1>
 
 </body>
 </html>
