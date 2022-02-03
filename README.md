@@ -6,26 +6,12 @@
 
 <h1>Tom Pasini || Software Developer</h1>
 
-<p>My name is Tom Pasini. I am a graduate from the Immersive Full Stack Developer program at CodeWorks. I enjoy figuring out how things work, and inevitably why things are not working as expected.</p>
-
-<p>I am currently working on app that's kind of like OkCupid for gamers, but it's not a dating app.</p>
-
-<h1>Resume:</h1>
-<p>https://www.canva.com/design/DAEPxdhjOcA/6g5rz4v-UXWxZRMlET_c4A/view?utm_content=DAEPxdhjOcA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton</p>
-
-<h1>Applications:</h1>
-<p>Tom's Bugs- https://tomsbugs.herokuapp.com/#/</p>
-<p>Kanban- https://rt-kanban.herokuapp.com/#/</p>
+<p>My name is Tom Pasini. I enjoy figuring out how things work, and inevitably why things are not working as expected.</p>
 
 <h1>More About Me:</h1>
 
 </body>
 </html>
-
-
-- 📫 How to reach me:
-
-https://www.linkedin.com/in/tom-pasini-416576a7/
 
 - ⚡ Fun fact:
 I love video games, board games, and Magic the Gathering. Ask me about Super Smash Brothers Melee for the Nintendo Gamecube.
